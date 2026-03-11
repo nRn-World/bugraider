@@ -206,6 +206,7 @@ Suggestions are welcome for:
 
 👨‍💻 **Author**  
 Created 2026 by © nRn World
+
 📧 bynrnworld@gmail.com
 
 ## 🙏 Support
