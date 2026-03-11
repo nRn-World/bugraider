@@ -204,11 +204,16 @@ Suggestions are welcome for:
 
 ---
 
-## ⭐ Support the Project
+👨‍💻 **Author**  
+Created 2026 by © nRn World
+📧 bynrnworld@gmail.com
 
-If BUGRAIDER helped you catch bugs or improve your code, consider giving this repo a **star** ⭐ — it helps others find it!
+## 🙏 Support
 
----
+If you like this project, consider:
 
-*© 2026 nRn World — All rights reserved.*
-*Created by nRn World*
+* ⭐ Star the project on GitHub  
+* ☕ [Buy me a coffee](https://buymeacoffee.com/nrnworld)  
+* 📢 Share with your friends  
+* ☕ Buying me a coffee  
+* 📢 Sharing with your friends
