@@ -681,25 +681,27 @@ The following files/modules passed all checks with no issues:
 - path/to/cleanfile2.js
 
 ---------------------------------------------------------
-AUDIT SUMMARY
----------------------------------------------------------
-Total Files Scanned:           [X]
-Total Lines of Code Analyzed:  [X]
---------------------------------------------
-[!!] Critical Issues:          [X]
-[HH] High Priority Issues:     [X]
-[MM] Medium Priority Issues:   [X]
-[LL] Low Priority Issues:      [X]
-[II] Informational:            [X]
-[TT] Spelling/UX Issues:       [X]
-[NN] Untested High-Risk Modules: [X]
---------------------------------------------
-Overall Health Score:          [X/100]
-Security Score:                [X/100]
-Code Quality Score:            [X/100]
-Performance Score:             [X/100]
-Spelling & UX Score:           [X/100]
-Test Coverage Score:           [X/100]
+BUGRAIDER AUDIT COMPLETE -- Full report is ready above.
+[Total issues] issues found across your [Project Name] project. Quick summary:
+
+Severity     | Count | Top Finding
+-------------|-------|-------------------------------------------------------
+[!!] Critical| [X]   | [Brief description of top critical finding, if any]
+[HH] High    | [X]   | [Brief description of top high finding, if any]
+[MM] Medium  | [X]   | [Brief description of top medium finding, if any]
+[LL] Low     | [X]   | [Brief description of top low finding, if any]
+[II] Info    | [X]   | [Brief description of top info finding, if any]
+[TT] Spelling| [X]   | [Brief description of top spelling/UX finding, if any]
+[NN] Untested| [X]   | [Brief description of top untested risk, if any]
+
+Security Score:      [X]/100 -- [Brief explanation, e.g. "No secrets found"]
+Overall Health Score:[X]/100
+Code Quality Score:  [X]/100
+Performance Score:   [X]/100
+Spelling & UX Score: [X]/100
+Test Coverage Score: [X]/100
+
+Total Files Scanned: [X] | Total Lines Analyzed: [X]
 ---------------------------------------------------------
 
 If and ONLY if the audit produces ZERO issues across all phases, output this

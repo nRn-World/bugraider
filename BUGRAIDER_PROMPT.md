@@ -688,28 +688,27 @@ The following files/modules passed all checks with no issues:
 
 ---
 
-#### 📊 AUDIT SUMMARY
+#### 🛡️ BUGRAIDER AUDIT COMPLETE — Full report is ready above.
+**[Total issues] issues found** across your `[Project Name]` project. Quick summary:
 
-```
-Total Files Scanned:          [X]
-Total Lines of Code Analyzed: [X]
-──────────────────────────────────
-🔴 Critical Issues:           [X]
-🟠 High Priority Issues:      [X]
-🟡 Medium Priority Issues:    [X]
-🔵 Low Priority Issues:       [X]
-⚪ Informational:             [X]
-🔤 Spelling/UX Issues:        [X]
-🧪 Untested High-Risk Modules: [X]
-──────────────────────────────────
-Overall Health Score:         [X/100]
-Security Score:               [X/100]
-Code Quality Score:           [X/100]
-Performance Score:            [X/100]
-Spelling & UX Score:          [X/100]
-Test Coverage Score:          [X/100]
-──────────────────────────────────
-```
+| Severity | Count | Top Finding |
+| :------- | :---- | :---------- |
+| 🔴 Critical | [X] | [Brief description of top critical finding, if any] |
+| 🟠 High | [X] | [Brief description of top high finding, if any] |
+| 🟡 Medium | [X] | [Brief description of top medium finding, if any] |
+| 🔵 Low | [X] | [Brief description of top low finding, if any] |
+| ⚪ Info | [X] | [Brief description of top info finding, if any] |
+| 🔤 Spelling/UX | [X] | [Brief description of top spelling/UX finding, if any] |
+| 🧪 Untested | [X] | [Brief description of top untested risk, if any] |
+
+**Security Score: [X]/100** — [Brief explanation, e.g. "No secrets, no dangerous APIs"]
+**Overall Health Score: [X]/100**
+**Code Quality Score: [X]/100**
+**Performance Score: [X]/100**
+**Spelling & UX Score: [X]/100**
+**Test Coverage Score: [X]/100**
+
+*Total Files Scanned: [X] | Total Lines Analyzed: [X]*
 
 ---
 
