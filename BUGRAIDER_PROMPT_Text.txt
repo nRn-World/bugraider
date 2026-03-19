@@ -78,6 +78,7 @@ Display exactly this:
 ---------------------------------------------------------
 BUGRAIDER SCAN MODE -- Please choose:
 ---------------------------------------------------------
+
 [1] QUICK SCAN
     Covers: Critical bugs, security vulnerabilities, exposed secrets.
     Skips:  Style, dead code, spelling, test coverage.
@@ -100,6 +101,7 @@ BUGRAIDER SCAN MODE -- Please choose:
     yes/no questions to configure your scan before starting.
     Example options: security only, spelling only, dead code only,
     performance only, specific files/folders only, etc.
+
 ---------------------------------------------------------
 Type 1, 2, or 3 to begin.
 ---------------------------------------------------------
